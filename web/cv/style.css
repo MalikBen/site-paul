@@ -1,0 +1,76 @@
+header {
+    
+}
+img {
+    width: 10%;
+    height: 20%;
+    margin-left: 2em;
+}
+
+
+
+.nom{
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 30%;
+    float: right;
+    
+    }
+
+div {
+     display: inline-block;
+     margin-left: 0.5em;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    text-decoration: underline;
+    
+    }
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+    width : 20% ;
+} 
+
+th {
+    font-style: unset; }
+
+.etoile {
+    color: yellow;
+}
+
+.gris{
+    color: gray
+}
+
+
+
+footer {
+    font-size: 10 ;
+}
+
+.listevoyages {
+    padding:0;
+    margin:0;
+    width:100%;
+    background-color:orangered;
+    
+    
+   
+   
+}
+
+.v1 {
+    list-style: none;
+    display:inline-block;  
+    margin:1%; 
+   
+
+
+
+
+
+
